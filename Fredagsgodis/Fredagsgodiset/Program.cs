@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-// för att få sökvägen till filen att funka behöver man skapa en mapp som heter data i bin/debug/net10.0 och lägga in filen Countries_area.txt där
+// för att få sökvägen till filen att funka behöver man skapa en mapp som heter data i bin/debug/net10.0 och lägga in filen Countries_area.txt där så funkar det utan att ha en local sökväg
 
 class Country
 {
